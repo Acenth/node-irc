@@ -23,7 +23,7 @@
   },
   "devDependencies": {},
   "optionalDependencies": {
-    "proxysocket": "^1.2.0"
+    "proxysocket": "https://github.com/Acenth/proxysocket.git"
   },
   "licenses": [
     {
