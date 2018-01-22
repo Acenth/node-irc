@@ -18,7 +18,9 @@
   "engines": {
     "node": ">=0.4.7"
   },
-  "dependencies": {},
+  "dependencies": {
+    "react-native-tcp": "^3.3.0"
+  },
   "devDependencies": {},
   "optionalDependencies": {
     "proxysocket": "^1.2.0"
